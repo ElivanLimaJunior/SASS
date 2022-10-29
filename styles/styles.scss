@@ -5,7 +5,6 @@ $cor-secundaria: #D800A6;
     margin: 0;
     padding: 0;
 }
-
 @mixin cor-e-texto($cor-de-fundo, $cor-do-texto) {
     width: 50%;
     background-color: $cor-de-fundo;
